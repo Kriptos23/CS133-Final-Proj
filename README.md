@@ -33,7 +33,8 @@ We will collect UFC fight data from UFCStats.com. The data will include fight da
 
 We will calculate descriptive statistics for fight duration, significant strikes, takedowns, and submission attempts. We will compare fight outcomes across weight classes and examine whether fight duration differs between knockouts, submissions, and decisions. We will use bar charts, histograms, box plots, and time-series charts to communicate the main findings. We will also perform at least one statistical test, such as a chi-square test examining the relationship between weight class and method of victory. We will discuss limitations, missing data, possible bias, and whether the visualizations could lead to misleading conclusions.
 
-
+The datasets that are gonna be used will be taken from:
+https://github.com/Greco1899/scrape_ufc_stats
 
 
 
